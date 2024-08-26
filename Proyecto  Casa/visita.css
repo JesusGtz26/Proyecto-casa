@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(163, 103, 220);;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    border: solid 2px rgb(230, 0, 255);
+    background-color: rgb(224, 181, 223);
+}
+
+#uni{
+    text-align: center;
+    width: 20px;
+}
+
+span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.boton-grande{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(247, 225, 98);
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-left: 600px;
+}
+
+.boton-enviar{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(98, 247, 138);
+    text-decoration: underline;
+   border: solid black 3px;
+}
+
+#name-ipt{
+    border: solid black 3px;
+}
+
+#apellido-ipt{
+    border: solid black 3px;
+}
+
+#numero-ipt{
+    border: solid black 3px;
+}
+
+#emial-ipt{
+    border: solid black 3px;
+}
+
+#dudas-ipt{
+    border: solid black 3px;
+    height: 150PX;
+    width: 600PX;
+}
+
+.boton-inicio{width: 150px;
+    height: 50px;
+    text-decoration: underline;
+   border: solid black 3px;
+   margin-left: 700px;
+}
+
+   
+    
+   
